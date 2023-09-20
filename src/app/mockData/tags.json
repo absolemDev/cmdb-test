@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed471198",
+    "name": "В резерве",
+    "color": "primary"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471100",
+    "name": "На диагностике",
+    "color": "secondary"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed4711012",
+    "name": "В эксплуатации",
+    "color": "success"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471101",
+    "name": "В ремонте",
+    "color": "danger"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471102",
+    "name": "На апгрейде",
+    "color": "info"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471103",
+    "name": "Донор",
+    "color": "dark"
+  }
+]

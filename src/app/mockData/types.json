@@ -1,0 +1,8 @@
+[
+  { "_id": "67rdca3eeb7f6fgeed471818", "name": "default" },
+  { "_id": "67rdca3eeb7f6fgeed471820", "name": "mv_host" },
+  { "_id": "67rdca3eeb7f6fgeed471814", "name": "vm_guest" },
+  { "_id": "67rdca3eeb7f6fgeed471822", "name": "hv_server" },
+  { "_id": "67rdca3eeb7f6fgeed471824", "name": "hv_client" },
+  { "_id": "67rdca3eeb7f6fgeed471829", "name": "ws" }
+]
